@@ -1,0 +1,8 @@
+npm install bootstrap popper.js jquery --save -dev
+
+import 'jquery/src/jquery.js';
+
+import "popper.js/dist/umd/popper.js";
+
+import 'bootstrap/dist/js/bootstrap.min.js';
+import 'bootstrap/dist/css/bootstrap.min.css'
